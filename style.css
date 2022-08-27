@@ -1,0 +1,73 @@
+.navbar-container div img {
+  height: 30px;
+  width: 70px;
+  position: relative;
+  left: 60px;
+  top: 50px;
+}
+
+.list li {
+  display: inline-flex;
+  margin: 20px;
+  position: relative;
+  left: 10%;
+  top: -15px;
+  color: rgb(133, 119, 119);
+}
+
+.button-group button {
+  position: relative;
+  left: 90%;
+  top: -80px;
+  border-radius: 7px;
+  padding: 15px 15px;
+  background-color: rgba(132, 102, 241, 0.726);
+  color: #ffffff;
+  border: thick blueviolet;
+}
+
+.list li:hover {
+  color: rgb(0, 0, 0);
+}
+
+.heading-text {
+  font-size: 60px;
+  position: relative;
+  left: 60px;
+  color: rgb(70, 54, 54);
+}
+
+.heading-text span {
+  color: blueviolet;
+}
+
+.description {
+  position: relative;
+  left: 60px;
+  font-family: cursive;
+}
+
+.nav-button,
+btn {
+  border: 2px solid orange;
+  position: relative;
+  left: 100px;
+  top: 50px;
+  border-radius: 7px;
+  padding: 20px 35px;
+  background-color: blueviolet;
+  color: #ffffff;
+}
+
+.banner-container div img {
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  height: 80%;
+  width: 50%;
+}
+
+html,
+body {
+  padding: 0px 50px;
+}
